@@ -35,11 +35,16 @@ Here are some ideas to get you started:
 
 
 -->
+<!--
 
 ![Kuldeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=KuldeepBorkar&theme=chartreuse-dark&show_icons=true)
 
+
+<!--
 [![MasterHead](https://www.google.com/search?q=ironman%202&tbm=isch&hl=en-GB&tbs=rimg:CQUvXdgjJnWnYcHorxBqQ0PF&sa=X&ved=0CB4QuIIBahcKEwiwk9y8zJvyAhUAAAAAHQAAAAAQCg&biw=1346&bih=758#imgrc=BypfC_fQcMjeOM&imgdii=wl8ND7CpT2oxkM)](https://github.com/KuldeepBorkar)
 
+-->
+<!--
  <img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F354165958191836372%2F&psig=AOvVaw0DgGotjvCiNg3AAHl3OIaH&ust=1628312279716000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPjfgJLOm_ICFQAAAAAdAAAAABAJ">
  
  <!-- Social Icon Selection !>
@@ -67,13 +72,16 @@ Here are some ideas to get you started:
 ![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
 
 -->
+<!--
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=9dfjpnpxqsnfgi70p7a46yocz&count={count})
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
-<!-- Markdown -->
+<!-- Markdown 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+
+<!--
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
