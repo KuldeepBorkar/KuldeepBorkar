@@ -1,4 +1,5 @@
-### Hey there 👋
+![Tanjiro](https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/11/Demon-Slayer-Kamado-Tanjiro.jpg?q=50&fit=crop&w=750&dpr=1.5)
+## *“Why is it...when you're close to accomplishing something, right in front of you, another barrier appears. Novice swordsmen, all powerful, all killed and fought in far away places. And yet I still don't have the ability to go there. I feel like I'm falling behind!”*
 
 <!--
 **KuldeepBorkar/KuldeepBorkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
