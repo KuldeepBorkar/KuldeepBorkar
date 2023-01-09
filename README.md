@@ -1,6 +1,48 @@
 ![Tanjiro](https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/11/Demon-Slayer-Kamado-Tanjiro.jpg?q=50&fit=crop&w=750&dpr=1.5)
 ## *“Why is it...when you're close to accomplishing something, right in front of you, another barrier appears. Novice swordsmen, all powerful, all killed and fought in far away places. And yet I still don't have the ability to go there. I feel like I'm falling behind!”*
 
+<p align="center"><a href="#"><img width="80%" alt="Hey, it's me Kuldeep" src="Hey, it's me Kuldeep.gif" /></a></p>
+
+
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Smile+before+you+read+more..&hearts;++;Self-taught+MachineLearning+Enthusiast,;Artificial+Intelligence+Student,;OpenSource+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..&hearts"></a>
+</p>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=KuldeepBorkar&show_icons=true" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuldeepBorkar&layout=compact" />
+</a>
+
+<p align="center">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=F7146A&size=25&center=true&vCenter=true&width=600&height=100&lines=Connect+with+me+on..&hearts;++;I'll+try+my+best+to+reply+ASAP,;Happy+to+help..&hearts;++;"></a>
+</p>
+
+<p align="center">
+<a href="https://twitter.com/jr_kuldeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jr_kuldeep" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kuldeep-borkar-jr-21aa911bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kuldeep" height="30" width="40" /></a>
+<a href="https://instagram.com/ore_wa_kuldeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kuldeep" height="30" width="40" /></a>
+</p>
+
 <!--
 **KuldeepBorkar/KuldeepBorkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
